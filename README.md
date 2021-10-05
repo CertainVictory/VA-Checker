@@ -1,6 +1,5 @@
 # Olive Helps: VA-Status-Checker
-Add your description here...
-
+Simple loop, missing input validation and maybe a hook to auto-close previous search result.
 ## Requirements
 
 You will need to install [Olive Helps](https://oliveai.com/olive-helps/).
