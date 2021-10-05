@@ -15,6 +15,7 @@ Then compile and package the project with:
 npm run build
 ```
 Install the necessary requirements below. To test, please install this as a local loop, following the instructions from this portal:
+
 [Olive Ai Loops Installation](https://docs.oliveai.dev/ldk/your-first-loop)
 
 
